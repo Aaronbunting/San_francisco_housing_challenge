@@ -31,4 +31,4 @@
  * GeoViews
  * Jupyter Notebook
 # Utilization
-* Run the analysis via Jupyter Notebook San_francisco_housing_analyssi.ipynb and execute the cells in chronological order. 
+* Run the analysis via Jupyter Notebook San_francisco_housing_analysis.ipynb and execute the cells in chronological order. 
