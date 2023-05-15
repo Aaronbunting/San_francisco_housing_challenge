@@ -13,7 +13,7 @@
 # Analysis
 
 1. Calculate and plot the housing units per year.
-  * This section calculates the average number of housing units per year and visualizes the results using a bar chart.
+   * This section calculates the average number of housing units per year and visualizes the results using a bar chart.
 
 2. Calculate and plot the average prices per square foot.
 
