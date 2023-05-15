@@ -9,10 +9,10 @@
 
 # Background 
 * This project analyzes the housing market in San Francisco using housing sales data from 2010 to 2016. The analysis consists of several visualizations to understand the trends and relationships in the data.
-# Instructions
 
-* The main task in this Challenge is to visualize and analyze the real-estate data in your Jupyter notebook. Use the san_francisco_housing.ipynb notebook to complete the following tasks:
+# Analysis
 
+Part 1:
 1. Calculate and plot the housing units per year.
 
 2. Calculate and plot the average prices per square foot.
@@ -23,12 +23,13 @@
 
 5. Compose your data story.
 
-6. Calculate and Plot the Housing Units per Year
+Part 2:
+1. Calculate and Plot the Housing Units per Year
 
-7. Use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar chart. To do so, complete the following steps:
-  * Use the groupby function to group the data by year. Aggregate the results by the mean of the groups.
-  * Use the hvplot function to plot the housing_units_by_year DataFrame as a bar chart. Make the x-axis represent the year and the y-axis represent the    housing_units.
-  * Style and format the line plot to ensure a professionally styled visualization.
+2. 
+3.
+4.
+
 
 ## Results
 
