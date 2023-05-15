@@ -16,16 +16,14 @@
    * This section calculates the average number of housing units per year and visualizes the results using a bar chart.
 
 2. Calculate and plot the average prices per square foot.
+   * This section calculates the average sale price per square foot by year, filters out the housing_units column, and visualizes the results using an interactive line plot.
 
 3. Compare the average prices by neighborhood.
-
+   * In this section, the data is grouped by year and neighborhood, and the mean values are calculated. An interactive line plot is created using hvplot, allowing users to select a neighborhood from a dropdown menu and view the average price per square foot for the selected neighborhood.
+  
 4. Build an interactive neighborhood map.
-
-5. Compose your data story.
-
-
-
-
+   * This section combines the neighborhood location data with the average prices to create an interactive map using hvplot and GeoViews. The map displays points for each neighborhood, with the size of the points representing the sale price per square foot and the color representing the gross rent.
+   * 
 ## Results
 
 1. What’s the overall trend in housing units over the period that you’re analyzing?
