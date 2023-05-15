@@ -8,7 +8,7 @@
 * [Utilization](#Utilization)
 
 # Background 
-This project analyzes the housing market in San Francisco using housing sales data from 2010 to 2016. The analysis consists of several visualizations to understand the trends and relationships in the data.
+* This project analyzes the housing market in San Francisco using housing sales data from 2010 to 2016. The analysis consists of several visualizations to understand the trends and relationships in the data.
 # Instructions
 
 * The main task in this Challenge is to visualize and analyze the real-estate data in your Jupyter notebook. Use the san_francisco_housing.ipynb notebook to complete the following tasks:
