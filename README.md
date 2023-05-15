@@ -10,6 +10,11 @@
 # Background 
 * This project analyzes the housing market in San Francisco using housing sales data from 2010 to 2016. The analysis consists of several visualizations to understand the trends and relationships in the data.
 
+# Data 
+* The dataset used for this analysis is sfo_neighborhoods_census_data.csv, which includes information about housing units, sale price per square foot, and gross rent for various San Francisco neighborhoods. 
+
+* The neighborhoods_coordinates.csv file contains latitude and longitude coordinates for each neighborhood, which are used for geospatial visualizations.
+
 # Analysis
 
 1. Calculate and plot the housing units per year.
