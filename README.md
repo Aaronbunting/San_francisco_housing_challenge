@@ -1,39 +1,30 @@
 # San_francisco_housing_challenge
 
-Instructions
-Use the san_francisco_housing.ipynb notebook to visualize and analyze the real-estate data.
+# Instructions
 
-Note that this assignment requires you to create a visualization by using hvPlot and GeoViews. Additionally, you need to read the sfo_neighborhoods_census_data.csv file from the Resources folder into the notebook and create the DataFrame that you’ll use in the analysis.
+* The main task in this Challenge is to visualize and analyze the real-estate data in your Jupyter notebook. Use the san_francisco_housing.ipynb notebook to complete the following tasks:
 
-The main task in this Challenge is to visualize and analyze the real-estate data in your Jupyter notebook. Use the san_francisco_housing.ipynb notebook to complete the following tasks:
+1. Calculate and plot the housing units per year.
 
-Calculate and plot the housing units per year.
+2. Calculate and plot the average prices per square foot.
 
-Calculate and plot the average prices per square foot.
+3. Compare the average prices by neighborhood.
 
-Compare the average prices by neighborhood.
+4. Build an interactive neighborhood map.
 
-Build an interactive neighborhood map.
+5. Compose your data story.
 
-Compose your data story.
+6. Calculate and Plot the Housing Units per Year
 
-Calculate and Plot the Housing Units per Year
-For this part of the assignment, use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar chart. To do so, complete the following steps:
+7. Use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar chart. To do so, complete the following steps:
+  * Use the groupby function to group the data by year. Aggregate the results by the mean of the groups.
+  * Use the hvplot function to plot the housing_units_by_year DataFrame as a bar chart. Make the x-axis represent the year and the y-axis represent the    housing_units.
+  * Style and format the line plot to ensure a professionally styled visualization.
 
-Use the groupby function to group the data by year. Aggregate the results by the mean of the groups.
+## Results
 
-Use the hvplot function to plot the housing_units_by_year DataFrame as a bar chart. Make the x-axis represent the year and the y-axis represent the housing_units.
-
-Style and format the line plot to ensure a professionally styled visualization.
-
-Note that your resulting plot should appear similar to the following image:
-
-6-4-zoomed-housing-units-by-year.png
-
-Answer the following question:
-
-What’s the overall trend in housing units over the period that you’re analyzing?
-Calculate and Plot the Average Sale Prices per Square Foot
+1. What’s the overall trend in housing units over the period that you’re analyzing?
+*Calculate and Plot the Average Sale Prices per Square Foot
 For this part of the assignment, use numerical and visual aggregation to calculate the average prices per square foot, and then visualize the results as a bar chart. To do so, complete the following steps:
 
 Group the data by year, and then average the results. What’s the lowest gross rent that’s reported for the years that the DataFrame includes?
