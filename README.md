@@ -1,7 +1,7 @@
 # San Francisco Housing Market Analysis
 # Table of Contents
 * [Background](#Background)
-* [Files(#Files)
+* [Files](#Files)
 * [Instructions](#Instructions)
 * [Analysis](#Analysis)
 * [Conclusion](#Conclusion)
