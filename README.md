@@ -5,7 +5,6 @@
 * [Instructions](#Instructions)
 * [Analysis](#Analysis)
 * [Conclusion](#Conclusion)
-* [Utilization](#Utilization)
 
 # Background 
 Proptech, the application of technology to real estate markets, is an innovative domain in the fintech industry. This project focuses on analyzing the housing rental market data for San Francisco. The goal is to identify viable investment opportunities for a proptech company that wants to offer an instant, one-click service for people to buy properties and then rent them.
