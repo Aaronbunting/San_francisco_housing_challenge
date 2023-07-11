@@ -1,14 +1,14 @@
 # San Francisco Housing Market Analysis
 # Table of Contents
 * [Background](#Background)
+* [Files(#Files)
 * [Instructions](#Instructions)
-* [Data](Data)
 * [Analysis](#Analysis)
-* [Dependencies](#Dependencies)
+* [Conclusion](#Conclusion)
 * [Utilization](#Utilization)
 
 # Background 
-* Proptech, the application of technology to real estate markets, is an innovative domain in the fintech industry. This project focuses on analyzing the housing rental market data for San Francisco. The goal is to identify viable investment opportunities for a proptech company that wants to offer an instant, one-click service for people to buy properties and then rent them.
+Proptech, the application of technology to real estate markets, is an innovative domain in the fintech industry. This project focuses on analyzing the housing rental market data for San Francisco. The goal is to identify viable investment opportunities for a proptech company that wants to offer an instant, one-click service for people to buy properties and then rent them.
 
 The analysis utilizes data visualization techniques, including aggregation, interactive visualizations, and geospatial analysis, to explore the San Francisco real estate market and identify potential investment opportunities.
 
